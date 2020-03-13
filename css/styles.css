@@ -13,3 +13,25 @@ h1 {
   ul {
     line-height: 40px;
   }
+  body {
+      background-color: rgb(93, 0, 130);
+  }
+  img {
+      float: right;
+  }
+  .column{
+  color: yellow;
+}
+.column {
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+  padding: 6px;
+  margin: 20px;
+  background-color: mediumaquamarine;
+}
+.column {
+    font-family: sans-serif;
+  }
+
